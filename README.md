@@ -28,6 +28,10 @@ This project is a classic implementation of the Tic Tac Toe game, where two play
   - Jest and React Testing Library for unit testing components
   - Cypress for end-to-end testing
 
+## Images 
+![Screenshot 2024-05-08 112241](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/ad506797-7ce2-4186-8e22-cd3c831656bb)
+![Screenshot 2024-05-08 112353](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/99cdda85-7e46-4b7d-a9e8-ee612516e56f)
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/yourusername/tic-tac-toe.git`
@@ -39,11 +43,3 @@ This project is a classic implementation of the Tic Tac Toe game, where two play
 - Two players take turns clicking on empty spaces to mark them with X or O.
 - The game automatically detects when a player wins or if the game ends in a draw.
 - To start a new game, click on the reset button.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
