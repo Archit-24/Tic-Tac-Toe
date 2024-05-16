@@ -2,6 +2,8 @@
 
 This project is a classic implementation of the Tic Tac Toe game, where two players take turns marking spaces on a 3x3 grid, aiming to be the first to achieve three marks in a row, column, or diagonal.
 
+![Screenshot 2024-05-08 112241](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/ad506797-7ce2-4186-8e22-cd3c831656bb)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -27,10 +29,6 @@ This project is a classic implementation of the Tic Tac Toe game, where two play
 - **Testing**:
   - Jest and React Testing Library for unit testing components
   - Cypress for end-to-end testing
-
-## Images 
-![Screenshot 2024-05-08 112241](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/ad506797-7ce2-4186-8e22-cd3c831656bb)
-![Screenshot 2024-05-08 112353](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/99cdda85-7e46-4b7d-a9e8-ee612516e56f)
 
 ## Installation
 
